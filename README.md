@@ -20,3 +20,5 @@ Refactoring an existing website
   Debugged syntax for font in CSS file
   
   Changed website title from "website" to "Horiseon Social Solutions Services"
+
+![alt text](http://url/to/img.png)
