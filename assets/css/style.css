@@ -1,3 +1,5 @@
+/* HTML styling */
+
 * {
     box-sizing: border-box;
     padding: 0;
@@ -7,6 +9,8 @@
 body {
     background-color: #d9dcd6;
 }
+
+/* Header styling */
 
 header {
     padding: 20px;
@@ -39,6 +43,8 @@ header nav ul li {
     font-weight: bolder;
 }
 
+/*body styling */
+
 a {
     color: #ffffff;
     text-decoration: underline;
@@ -51,6 +57,25 @@ a:hover {
 p {
     font-size: 20px;
 }
+
+main {
+    width: 75%;
+    display: inline-block;
+    margin-left: 20px;
+}
+
+benefits {
+    margin-right: 20px;
+    padding: 20px;
+    clear: both;
+    float: right;
+    width: 20%;
+    height: 100%;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+}
+
+/* classes */
 
 .hero {
     height: 800px;
@@ -69,12 +94,6 @@ p {
 .float-right {
     float: right;
     margin-left: 25px;
-}
-
-main {
-    width: 75%;
-    display: inline-block;
-    margin-left: 20px;
 }
 
 .content {
@@ -96,17 +115,6 @@ main {
     font-size: 36px;
 }
 
-benefits {
-    margin-right: 20px;
-    padding: 20px;
-    clear: both;
-    float: right;
-    width: 20%;
-    height: 100%;
-    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-}
-
 .benefits-content {
     margin-bottom: 32px;
     color: #ffffff;
@@ -123,6 +131,8 @@ benefits {
     margin: 10px auto;
     max-width: 150px;
 }
+
+/* footer styling */
 
 footer {
     padding: 30px;
