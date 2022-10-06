@@ -58,4 +58,8 @@ WHEN I view the title element
 THEN I find a concise, descriptive title
 ```
 
+# [Here is a link to the deployed website](https://ckim812.github.io/01-HTML-Git-CSS--Sprint-1-Challenge-Refactoring/)
+
+## Application Preview
+
 ![alt text](./assets/images/Challenge%201%20Preview.png)
